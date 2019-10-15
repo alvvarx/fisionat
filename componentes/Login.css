@@ -1,0 +1,8 @@
+.borde {
+    border: 5px solid black;
+    border-radius: 20px;    
+}
+
+.caja {
+    margin-top: 225px;
+}
